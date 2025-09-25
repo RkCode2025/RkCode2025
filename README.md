@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Syphax</h1>
-
-
-<!-- Typing Banner -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&width=500&lines=AI/ML+Enthusiast;Python+Developer;Natural+Language+Processing.;Open+Source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&font=JetBrains+Mono&color=39FF14&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Syphax;AI/ML+Enthusiast;Python+Developer;Natural+Language+Processing.;Open+Source" alt="Typing SVG" />
   </a>
 </p>
+
+
+
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=rkcode2025&label=Profile%20views&color=0e75b6&style=flat" alt="rkcode2025" /> 
