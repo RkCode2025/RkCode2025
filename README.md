@@ -64,11 +64,9 @@
 
 ---
 
-<a href="https://github.com/rkcode2025/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkcode2025&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</a>
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ---
-
-### ✨ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
