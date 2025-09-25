@@ -4,7 +4,7 @@
 <!-- Typing Banner -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&width=500&lines=AI/ML+Enthusiast;Python+Developer;NLP;Open+Source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&width=500&lines=AI/ML+Enthusiast;Python+Developer;Natural+Language+Processing.;Open+Source" alt="Typing SVG" />
   </a>
 </p>
 
