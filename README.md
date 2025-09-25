@@ -21,7 +21,7 @@
 </p>
 
 
-### 🔥 About Me
+### About Me
 - 🔭 I’m currently working on [Adaline Implementation](https://github.com/RkCode2025/Adaline-from-scratch-by-Machine-Learning-with-Pytorch-and-Scikit-learn-by-Sebastian-Raschka)  
 - 🌱 I’m currently learning **Pytorch, NLP, LLM, Transformer Architecture**  
 - 👨‍💻 All of my projects are available at [syphax.super.site](https://syphax.super.site)  
