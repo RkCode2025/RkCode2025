@@ -22,7 +22,6 @@
 
 
 ### About Me
-- 🔭 I’m currently working on [Adaline Implementation](https://github.com/RkCode2025/Adaline-from-scratch-by-Machine-Learning-with-Pytorch-and-Scikit-learn-by-Sebastian-Raschka)  
 - 🌱 I’m currently learning **Pytorch, NLP, LLM, Transformer Architecture**  
 - 👨‍💻 All of my projects are available at [syphax.super.site](https://syphax.super.site)  
 - ⚡ Fun fact: **I like Architecture as a hobby**  
@@ -33,12 +32,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome)](https://syphax.super.site)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter)](https://x.com/Rakshit5352535)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-lightblue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/jarvistrue)
-
----
-
-### 🚀 Featured Projects
-- [🔢 Adaline Implementation](https://github.com/RkCode2025/Adaline-from-scratch-by-Machine-Learning-with-Pytorch-and-Scikit-learn-by-Sebastian-Raschka) – Neural Net from scratch  
-- [📊 ML Notebooks](https://github.com/RkCode2025/ML-Notebooks) – Experiments & mini-projects  
 
 ---
 
