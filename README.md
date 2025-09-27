@@ -21,11 +21,14 @@
 - ⚡ Fun fact: **I like Architecture as a hobby**  
 
 ---
+### 🛠️ My Skills and Expertise
 
-### 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome)](https://syphax.super.site)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter)](https://x.com/Rakshit5352535)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-lightblue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/jarvistrue)
+- Machine Learning: Linear Models, Decision Trees, Random Forests, Classification & Regression
+- Deep Learning: Neural Networks, Basic Convolutional Neural Networks
+- Data Analysis: Pandas, NumPy, Visualization using Plotly
+- Model Optimization: Hyperparameter Tuning (GridSearchCV, RandomizedSearchCV), Ensemble Methods
+- Tools & Frameworks: TensorFlow, scikit-learn, pandas, numpy, plotly
+- Applied Use Cases: Time Series Forecasting, Computer Vision (lightweight models), Linear and Logistic Prediction
 
 ---
 
@@ -38,6 +41,13 @@
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 </p>
+
+---
+
+### 🌐 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome)](https://syphax.super.site)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter)](https://x.com/Rakshit5352535)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-lightblue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/jarvistrue)
 
 ---
 <!-- 🏆 GitHub Trophies -->
