@@ -16,7 +16,7 @@
 <!-- 🏆 GitHub Trophies -->
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rkcode2025&margin-w=15&margin-h=15" alt="rkcode2025" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rkcode2025&margin-w=15&margin-h=15&theme=onestar" alt="rkcode2025" />
   </a> 
 </p>
 
