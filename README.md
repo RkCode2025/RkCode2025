@@ -45,7 +45,7 @@
 ---
 
 ### 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome)](https://syphax.super.site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome)](https://syphax.vercel.app)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter)](https://x.com/Rakshit5352535)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-lightblue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/jarvistrue)
 
