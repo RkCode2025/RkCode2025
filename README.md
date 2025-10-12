@@ -65,7 +65,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=rkcode2025&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="200px"/>
 </p>
-
+[![Syphax's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RkCode2025-mist&days=45&bg_color=0c1014&color=268f77&line=268f77&point=268f77&area=true&hide_border=true)]
 ---
 
 <!-- Snake Game Repo View -->
