@@ -16,9 +16,9 @@
 
 
 ### About Me
-- 🌱 I’m currently learning **Pytorch, NLP, LLM, Transformer Architecture**  
-- 👨‍💻 All of my projects are available at [syphax.super.site](https://syphax.super.site)  
-- ⚡ Fun fact: **I like Architecture as a hobby**  
+-  I’m currently learning **Pytorch, NLP, LLM, Transformer Architecture**  
+-  All of my projects are available at [syphax.vercel.app](https://syphax.vercel.app)  
+-  Fun fact: **I like Architecture as a hobby**  
 
 ---
 ### 🛠️ My Skills and Expertise
@@ -65,12 +65,10 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=rkcode2025&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="200px"/>
 </p>
-[![Syphax's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RkCode2025-mist&days=45&bg_color=0c1014&color=268f77&line=268f77&point=268f77&area=true&hide_border=true)]
----
 
+---
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
----
