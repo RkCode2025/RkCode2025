@@ -16,7 +16,7 @@
 
 
 ### About Me
--  I’m currently learning **Pytorch, NLP, LLM, Transformer Architecture**  
+-  I’m currently learning **Pytorch, NLP, LLMs, Transformer Architecture**  
 -  All of my projects are available at [syphax.vercel.app](https://syphax.vercel.app)  
 -  Fun fact: **I like Architecture as a hobby**  
 
@@ -57,7 +57,7 @@
   </a> 
 </p>
 
----
+----
 
 <!-- 📊 GitHub Stats -->
 <p align="center">
