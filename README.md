@@ -23,12 +23,11 @@
 ---
 ### 🛠️ My Skills and Expertise
 
-- Machine Learning: Linear Models, Decision Trees, Random Forests, Classification & Regression
-- Deep Learning: Neural Networks, Basic Convolutional Neural Networks
-- Data Analysis: Pandas, NumPy, Visualization using Plotly
-- Model Optimization: Hyperparameter Tuning (GridSearchCV, RandomizedSearchCV), Ensemble Methods
-- Tools & Frameworks: TensorFlow, scikit-learn, pandas, numpy, plotly
-- Applied Use Cases: Time Series Forecasting, Computer Vision (lightweight models), Linear and Logistic Prediction
+-Linear/Logistic Regression, Decision Trees, Random Forests  
+-Basic Neural Networks & CNNs  
+-Pandas, NumPy, Matplotlib visualization  
+-Hyperparameter tuning (Grid/Random Search), Ensembles  
+-Tools: scikit-learn, TensorFlow, Pytorch, pandas, Matplotlib
 
 ---
 ### 🛠️ Tools I Use
