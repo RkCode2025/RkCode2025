@@ -1,12 +1,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&font=JetBrains+Mono&color=39FF14&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Syphax;AI/ML+Enthusiast;Python+Developer;Natural+Language+Processing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&font=JetBrains+Mono&color=39FF14&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Syphax;ML+Engineer+in+the+Making;Python+Developer;Architecture+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
-
-
-
-
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=rkcode2025&label=Profile%20views&color=0e75b6&style=flat" alt="rkcode2025" /> 
@@ -14,54 +10,36 @@
 
 ---
 
-
 ### About Me
--  I’m currently learning **Pytorch, NLP, LLMs, Transformer Architecture**  
--  All of my projects are available at [syphax.vercel.app](https://syphax.vercel.app)  
--  Fun fact: **I like Architecture as a Hobby**  
+-  **Currently Diving Into:** PyTorch, NLP, and the inner workings of Transformer Architectures.
+-  **Portfolio:** [syphax.vercel.app](https://syphax.vercel.app)
 
 ---
-### 🛠️ My Skills and Expertise
 
--Linear/Logistic Regression, Decision Trees, Random Forests  
--Basic Neural Networks & CNNs  
--Pandas, NumPy, Matplotlib visualization  
--Hyperparameter tuning (Grid/Random Search), Ensembles  
--Tools: scikit-learn, TensorFlow, Pytorch, pandas, Matplotlib
+### 🛠️ Technical Toolkit
+
+**Classical Machine Learning**
+- **Algorithms:** Linear & Logistic Regression, Decision Trees, Random Forests, Ensembles.
+- **Workflow:** Exploratory Data Analysis (EDA), Hyperparameter Tuning (Grid/Random Search), Feature Engineering.
+
+**Deep Learning (Active Learning)**
+- **Foundations:** Basic Neural Networks & CNNs.
+- **Current Focus:** Sequence models, Attention mechanisms, and LLM fine-tuning.
+
+**Data Science & Tools**
+- **Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch (Learning).
+- **Visualization:** Matplotlib, Seaborn.
 
 ---
-### 🛠️ Tools I Use
+
+### Tech Stack
 <p align="left"> 
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-         alt="python" width="60" height="60" 
-         style="border: 2px solid #000000; border-radius: 10px; padding: 5px; margin: 5px;"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" 
-         alt="pandas" width="60" height="60" 
-         style="border: 2px solid #000000; border-radius: 10px; padding: 5px; margin: 5px;"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" 
-         alt="pytorch" width="60" height="60" 
-         style="border: 2px solid #000000; border-radius: 10px; padding: 5px; margin: 5px;"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
-         alt="scikit_learn" width="60" height="60" 
-         style="border: 2px solid #000000; border-radius: 10px; padding: 5px; margin: 5px;"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" 
-         alt="tensorflow" width="60" height="60" 
-         style="border: 2px solid #000000; border-radius: 10px; padding: 5px; margin: 5px;"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" 
-         alt="seaborn" width="60" height="60" 
-         style="border: 2px solid #000000; border-radius: 10px; padding: 5px; margin: 5px;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" style="margin: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50" style="margin: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50" style="margin: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50" style="margin: 5px;"/>
 </p>
 
 ---
@@ -72,24 +50,18 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-lightblue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/jarvistrue)
 
 ---
-<!-- 🏆 GitHub Trophies -->
+
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=rkcode2025&margin-w=15&margin-h=15&theme=onestar" alt="rkcode2025" />
   </a> 
 </p>
 
-----
-
-<!-- 📊 GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rkcode2025&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Top Langs" height="180px"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=rkcode2025&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rkcode2025&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="180px"/>
 </p>
-
----
-<!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
