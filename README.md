@@ -16,21 +16,7 @@
 
 ---
 
-### 🛠️ Technical Toolkit
-
-**Classical Machine Learning**
-- **Algorithms:** Linear & Logistic Regression, Decision Trees, Random Forests, Ensembles.
-- **Workflow:** Exploratory Data Analysis (EDA), Hyperparameter Tuning (Grid/Random Search), Feature Engineering.
-
-**Deep Learning (Active Learning)**
-- **Foundations:** Basic Neural Networks & CNNs.
-- **Current Focus:** Sequence models, Attention mechanisms, and LLM fine-tuning.
-
-**Data Science & Tools**
-- **Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch (Learning).
-- **Visualization:** Matplotlib, Seaborn.
-
----
+uning.
 
 ### Tech Stack
 <p align="left"> 
@@ -43,11 +29,20 @@
 </p>
 
 ---
+### 🌐 Socials:
 
-### 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome)](https://syphax.vercel.app)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter)](https://x.com/Syphax_twt)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-lightblue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/jarvistrue)
+  <a href="https://x.com/syphax_twt">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=x&theme=dark">
+  </a>
+  <a href="https://www.kaggle.com/jarvistrue">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle&theme=light">
+  </a>
+  <a href="mailto:syphax_twt2025@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light">
+  </a>
+  <a href="https://syphax.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&theme=light">
+  </a>
 
 ---
 
