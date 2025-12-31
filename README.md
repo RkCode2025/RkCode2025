@@ -16,8 +16,6 @@
 
 ---
 
-uning.
-
 ### Tech Stack
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 5px;"/>
