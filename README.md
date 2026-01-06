@@ -10,13 +10,13 @@
 
 ---
 
-### About Me
+# About Me
 -  **Currently Diving Into:** PyTorch, NLP, and the inner workings of Transformer Architectures.
 -  **Portfolio:** [syphax.vercel.app](https://syphax.vercel.app)
 
 ---
 
-### Tech Stack
+# Tech Stack
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" style="margin: 5px;"/>
@@ -27,7 +27,7 @@
 </p>
 
 ---
-### 🌐 Socials:
+# 🌐 Socials:
 
   <a href="https://x.com/syphax_twt">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=x&theme=dark">
