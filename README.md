@@ -12,7 +12,7 @@
 
 - 🚀 **Currently Diving Into:** PyTorch, NLP, and the inner workings of Transformer Architectures.
 - 🌐 **Portfolio:** [syphax.vercel.app](https://syphax.vercel.app)
-- 📬 **Contact:** [syphax_twt2025@gmail.com](mailto:syphax_twt2025@gmail.com)
+- 📬 **Contact:** [syphaxtwt2025@gmail.com](mailto:syphaxtwt2025@gmail.com)
 
 ---
 
