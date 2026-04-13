@@ -40,20 +40,14 @@
 
 ---
 
-## 📊 GitHub Analytics
+### 💻 GitHub Profile Stats
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rkcode2025&theme=onestar&column=7&margin-w=15&margin-h=15" alt="rkcode2025" />
-  </a> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkcode2025&theme=tokyonight&hide_border=false" alt="rkcode2025" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=rkcode2025&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" alt="Top Langs" height="200px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rkcode2025&show_icons=true&theme=tokyonight&hide_border=false" alt="rkcode2025 stats" height="180px"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rkcode2025&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="GitHub Stats" height="200px"/>
-</p>
-
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="80%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=rkcode2025&layout=compact&theme=tokyonight&hide_border=false" alt="rkcode2025 langs" height="180px"/>
 </p>
