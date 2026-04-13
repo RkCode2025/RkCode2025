@@ -44,14 +44,14 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rkcode2025&margin-w=15&margin-h=15&theme=onestar" alt="rkcode2025" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rkcode2025&theme=onestar&column=7&margin-w=15&margin-h=15" alt="rkcode2025" />
   </a> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rkcode2025&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Top Langs" height="200px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=rkcode2025&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" alt="Top Langs" height="200px"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=rkcode2025&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="200px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rkcode2025&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="GitHub Stats" height="200px"/>
 </p>
 
 <p align="center">
