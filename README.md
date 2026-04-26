@@ -13,8 +13,6 @@
 ### About Me
 I work with NLP and deep learning projects. My primary framework is PyTorch.
 
-I build high-performance AI training frameworks and research scalable Mixture-of-Experts architectures.
-
 - **Currently Diving Into:** PyTorch, NLP, and the inner workings of Transformer Architectures.
 - **Portfolio:** [syphax.vercel.app](https://syphax.vercel.app)
 - **Contact:** [syphaxtwt2025@gmail.com](mailto:syphaxtwt2025@gmail.com)
