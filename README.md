@@ -9,6 +9,7 @@
 </p>
 
 ## About Me
+I work with NLP and deep learning projects. My primary frameworks is Pytorch.
 
 -  **Currently Diving Into:** PyTorch, NLP, and the inner workings of Transformer Architectures.
 -  **Portfolio:** [syphax.vercel.app](https://syphax.vercel.app)
