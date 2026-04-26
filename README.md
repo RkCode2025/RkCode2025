@@ -11,7 +11,7 @@
 ---
 
 ### About Me
-I work with NLP and deep learning projects. My primary framework is PyTorch.
+I work with NLP and deep learning projects. My primary framework is PyTorch. 
 
 - **Currently Diving Into:** PyTorch, NLP, and the inner workings of Transformer Architectures.
 - **Portfolio:** [syphax.vercel.app](https://syphax.vercel.app)
@@ -21,14 +21,12 @@ I work with NLP and deep learning projects. My primary framework is PyTorch.
 
 ### Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="60" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60" />
-</p>
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Python |
+| **Machine Learning** | PyTorch, TensorFlow, Hugging Face Transformers, Scikit-learn |
+| **Data Science** | NumPy, Pandas, Matplotlib |
+| **Specializations** | Natural Language Processing |
 
 ---
 
