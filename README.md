@@ -44,11 +44,7 @@ I work with NLP and deep learning projects. My primary framework is PyTorch.
 ### GitHub Profile Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkcode2025&theme=tokyonight&hide_border=false" alt="rkcode2025" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rkcode2025&show_icons=true&theme=tokyonight&hide_border=false" alt="rkcode2025 stats" height="180px"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=rkcode2025&layout=compact&theme=tokyonight&hide_border=false" alt="rkcode2025 langs" height="180px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rkcode2025&layout=compact&theme=tokyonight&hide_border=false" alt="rkcode2025 langs" height="180px"/>
 </p>
