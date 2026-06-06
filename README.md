@@ -1,4 +1,4 @@
-## Hi, I'm Syphax
+<img width="1080" height="901" alt="image" src="https://github.com/user-attachments/assets/d6cda5f3-bd5d-4434-b66d-a23076f19cb3" />## 👋Hi, I'm Syphax
 <p align="center">
 <pre align="center">
 ██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
